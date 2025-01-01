@@ -1,6 +1,8 @@
 ## Hi there 👋
 Welcome to my Github Profile🙂
 
+- 📫 To reach me: nithanprabhu158@gmail.com
+
 <!--
 **NithanPrabhu158/NithanPrabhu158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
